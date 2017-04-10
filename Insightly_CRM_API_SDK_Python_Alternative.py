@@ -1,4 +1,4 @@
-#A better way to access Insightly CRM API.
+#Simple Insightly CRM API SDK alternative for Python. 
 import requests
 from requests.auth import HTTPBasicAuth
 import json
